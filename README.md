@@ -1,8 +1,10 @@
 # Mission to Mars: ByteSize - Newquay 2018
 Code created by the three teams at the Newquay outing for the Mission to Mars
-ByteSize program. Students were given the [community created starter files]
-(https://github.com/tonyedwardspz/m2m-starter-files) and supported to complete
+ByteSize program. Students were given the [community created starter files](https://github.com/tonyedwardspz/m2m-starter-files) and supported to complete
 the provided manoeuvrability challenges.
+
+Students code is within the main.ino files, with some making tweaks and additions
+to the provided classes.
 
 ## Results
 The challenges come with a core coin reward, with the prizes being totted up via
